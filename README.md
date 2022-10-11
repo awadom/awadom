@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @awadom
+- 👋 Hi, I’m Omar @awadom
 - 👀 I’m interested in ... Start Up Development, Data Science, and Civic coding!
 - 🌱 I’m currently learning ... React Native, Javascript, and Python
 - 💞️ I’m looking to collaborate on ... Open Source Projects & My Opportunity App (ProjectX)
